@@ -1,0 +1,35 @@
+* [33md8af3d3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m feat: Add Docker and deployment configurations
+* [33m7711d87[m feat: Complete API deployment setup
+* [33m8c10a1c[m feat: Add quality assurance and validation
+* [33me5e09e2[m feat: Implement response generation system
+* [33mc450cf3[m feat: Add AI agent orchestration
+* [33m4eeef9d[m feat: Implement Gmail API integration
+* [33m9f5eb8d[m feat: Add RAG integration for knowledge base
+* [33ma36460f[m feat: Implement email categorization system
+* [33m1a75241[m feat: Add LangGraph workflow implementation
+* [33m0d3a380[m feat: Initial project setup and structure
+* [33mb829092[m feat: Complete API deployment setup
+* [33m878aae8[m feat: Add quality assurance and validation
+* [33mb41f597[m feat: Implement response generation system
+* [33m90120ac[m feat: Add AI agent orchestration
+* [33ma7bcd24[m feat: Implement Gmail API integration
+* [33m41cde5c[m feat: Add RAG integration for knowledge base
+* [33m597caae[m feat: Implement email categorization system
+* [33m041a04b[m feat: Add LangGraph workflow implementation
+* [33m20413b7[m feat: Initial project setup and structure
+* [33m9ea0f54[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Updated README
+* [33m390b70c[m Updated README
+* [33m85b922d[m Updated README
+* [33m1bbc7da[m Updated prompts and naming
+* [33m871b955[m Update automation & prompts
+* [33mb44d849[m Update README
+* [33m8b63d8d[m Update automation and add API
+* [33m7737bf1[m Update README.md
+*   [33mad25998[m Merge branch 'main' of https://github.com/kaymen99/langgraph-email-automation into main
+[32m|[m[33m\[m  
+[32m|[m * [33m7d7873d[m Update README.md
+* [33m|[m [33m4052b55[m Update README.md
+[33m|[m[33m/[m  
+* [33m1618255[m Add README
+* [33m6299fea[m First commit
+* [33mc7fd50e[m first commit
