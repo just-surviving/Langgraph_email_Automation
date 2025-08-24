@@ -180,7 +180,7 @@ Built with [LangGraph](https://github.com/langchain-ai/langgraph), [LangChain](h
 
 ---
 
-**Built with ❤️ by [@just-surviving](https://github.com/just-surviving)**
+**Built with ❤️ by Abhinav
 
 <!-- Last updated: 2025-08-15 -->
 
