@@ -34,7 +34,9 @@ The system uses a sophisticated LangGraph workflow with specialized AI agents:
 
 
 System Flowchart
+
 This is the detailed flow of the system:
+
 <img width="652" height="1052" alt="image" src="https://github.com/user-attachments/assets/0489da55-3036-4794-950d-ff9772861a32" />
 
 
